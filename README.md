@@ -1,2 +1,2 @@
-# Quant-project
+# some strategy
 Practice projects about Quant
